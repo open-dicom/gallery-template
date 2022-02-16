@@ -2,7 +2,7 @@
 
 Sample PROTOCOL acquisition from a Vendor Model.
 
-| A preview image should be generated using [MRIcroGL](https://www.nitrc.org/projects/mricrogl)'s mosaic view (*Display ⇾ Mosaic* and then *File ⇾ Save Bitmap*).
+| Update *preview.py* with the absolute path to your local directory and run using [MRIcroGL](https://www.nitrc.org/projects/mricrogl) (*Scripting ⇾ Open*). Validate that *preview.png* was created and remove *preview.py*.
 
 ## General Information
 
