@@ -1,0 +1,7 @@
+{
+	"Modality": "MR",
+	"MagneticFieldStrength": 3,
+    "MoreDICOMMetadata": "...",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20211006"
+}
