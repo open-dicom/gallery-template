@@ -2,7 +2,14 @@
 
 Sample PROTOCOL acquisition from a Vendor Model.
 
-| Update *preview.py* with the absolute path to your local directory and run using [MRIcroGL](https://www.nitrc.org/projects/mricrogl) (*Scripting ⇾ Open*). Validate that *preview.png* was created and remove *preview.py*.
+* Generate DICOM preview:
+  
+  Update *preview.py* with the absolute path to your local directory and run using [MRIcroGL](https://www.nitrc.org/projects/mricrogl) (*Scripting ⇾ Open*). Validate that *preview.png* was created and remove *preview.py*.
+
+* Generate NIfTI preview:
+  
+  \[View NIfTI in NiiVue\](https://niivue.github.io/niivue/features/view.html?url=https://<user>.github.io/<repo>/nii/converted.nii.gz)
+
 
 ## General Information
 
